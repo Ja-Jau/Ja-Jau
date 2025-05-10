@@ -3,7 +3,7 @@
 
 - I like to 🌱 **take long walks, learn stuff**
 
-- Currently working on 💫 **School, TFs Wiki**
+- Currently working on 💫 **School, Wiki-project**
 
 - Currently learning 🎓 **HTML, React,**
 
