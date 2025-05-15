@@ -1,4 +1,4 @@
-<h1 align="center">Hej 👋😎, I'm Ja/m</h1>
+<h1 align="center">Terve 👋😎, I'm Ja/m</h1>
 <h3 align="center">Student @ Aalto university</h3>
 
 - I like to 🌱 **take long walks, learn stuff**
