@@ -1,11 +1,11 @@
 <h1 align="center">Terve 👋😎, I'm Ja/m</h1>
 <h3 align="center">Student @ Aalto university</h3>
 
-- I like to 🌱 **take long walks, learn stuff**
+- I like 🌱 **learning stuff, music, games**
 
-- Currently working on 💫 **School, Wiki-project**
+- Currently working on 💫 **School, A desktop game**
 
-- Currently learning 🎓 **HTML, React,**
+- Currently learning 🎓 **C++, Game-engine architecture**
 
 
 <h3 align="left"></h3>
