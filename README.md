@@ -3,7 +3,7 @@
 
 - I like 🌱 **learning stuff, music, games**
 
-- Currently working on 💫 **School, A desktop game**
+- Currently working on 💫 **School, Unity Game**
 
 - Currently learning 🎓 **C++, Game-engine architecture**
 
