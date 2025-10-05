@@ -3,9 +3,9 @@
 
 - I like 🌱 **learning stuff, music, games**
 
-- Currently working on 💫 **School, Unity Game**
+- Currently working on 💫 **School, Unity Chess Game**
 
-- Currently learning 🎓 **C++, Game-engine architecture**
+- Currently learning 🎓 **C++, Unity, Game dev**
 
 
 <h3 align="left"></h3>
